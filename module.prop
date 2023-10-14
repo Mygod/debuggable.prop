@@ -1,0 +1,6 @@
+id=debuggable.prop
+name=Set ro.debuggable to 1
+version=v1.0
+versionCode=1
+author=Mygod
+description=Sets ro.debuggable to 1 using system.prop.
